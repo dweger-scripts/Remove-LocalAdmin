@@ -8,12 +8,12 @@
 #-------------------------------------------------
 # Usage/Switches
 #	If no switch is given, this script will identify all local admins and write them to the log.
-#		Example: C:\System\LocalAdmin.ps1
+#		Example: C:\temp\Remove-LocalAdmin.ps1
 #		Destructive. Removes all bad admins.
-#		Example: C:\System\LocalAdmin.ps1
+#		Example: C:\temp\Remove-LocalAdmin.ps1
 #	-WhatIf
 #		Non-Destructive. Test mode. Logs what would happen if the script runs.
-#		Example: C:\System\LocalAdmin.ps1 -WhatIf
+#		Example: C:\temp\LocalAdmin.ps1 -WhatIf
 #-------------------------------------------------
 #========================
 #Modified: 05.10.2024
